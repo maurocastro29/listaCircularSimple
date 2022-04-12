@@ -1,6 +1,10 @@
 package logica;
 
 import javax.swing.JOptionPane;
+/**
+ *
+ * @author Mauricio Castro
+ */
 
 public class listaCircularSimple {
     private Nodo ptr;

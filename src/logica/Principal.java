@@ -2,6 +2,11 @@ package logica;
 
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Mauricio Castro
+ */
+
 public class Principal {
     public static void main(String[] argv){
         listaCircularSimple ptr = new listaCircularSimple();

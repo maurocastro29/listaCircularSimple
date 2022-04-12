@@ -1,5 +1,10 @@
 package logica;
 
+/**
+ *
+ * @author Mauricio Castro
+ */
+
 public class Nodo {
     private int dato;
     private Nodo sgt;
